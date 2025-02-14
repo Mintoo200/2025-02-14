@@ -21,4 +21,4 @@ jobs:
         run: npm ci
 
       - name: Run Cypress
-        run: npm run Cypress
+        run: npm run cypress
